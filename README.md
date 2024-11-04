@@ -1,4 +1,3 @@
 # ISC_COMPSCI_2024-2025
-# शीर्षक 1: जय श्री राम
-## शीर्षक 2: जय श्री राम
-### शीर्षक 3: जय श्री राम
+## जय श्री राम
+##Please atleast variable names change karo
